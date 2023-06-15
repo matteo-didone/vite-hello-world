@@ -28,10 +28,3 @@ export default {
 
 <style scoped></style>
 
-
-<template>
-  <AppTitle msg="La mia prima app con Vite!" />
-  <AppHero />
-</template>
-
-<style scoped></style>
